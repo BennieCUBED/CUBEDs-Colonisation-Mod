@@ -1054,7 +1054,6 @@
 		"uniqueName": "The Long Count",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
 			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.","[-100 Science] [in all cities]"],
- 		// Parameters: tech, comment, amount, comment. Compare "Free [Great General] appears" as used by policies
 		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
 			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
 			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
@@ -1354,7 +1353,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
-		"uniques": "[-100 Science] [in all cities]",
+		"uniques": ["[-100 Science] [in all cities]"],
 		"cities": ["Zanzibar"]
 	},
 
