@@ -1097,7 +1097,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
-        "innerColor": [51,51,255],
+                "innerColor": [51,51,255],
 		"cities": ["Hanoi"]
 	},
 	{
@@ -1159,7 +1159,7 @@
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51,102,0],
-    "uniques": ["[-100 Science] [in all cities]"],
+                "uniques": ["[-100 Science] [in all cities]"],
 		"cities": ["Quebec City"]
 	},
 
@@ -1173,6 +1173,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,153],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["Cape Town"]
 	},
 	{
@@ -1209,6 +1210,7 @@
 		"defeated": "Congratulations, conqueror. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [224,224,224],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["Mogadishu"]
 	},
 	{
@@ -1222,6 +1224,7 @@
 		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211, 220, 103],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["Rio de Janeiro"]
 	},
 	{
@@ -1234,6 +1237,7 @@
 		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,204,204],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["Sydney"]
 	},
 	{
@@ -1260,6 +1264,7 @@
 		"defeated": "I regret not defending my country to the last, although it was not of use.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,255,128],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["Vancouver"]
 	},
 	{
@@ -1349,6 +1354,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["Zanzibar"]
 	},
 
@@ -1412,6 +1418,7 @@
 		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,128,0],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["M'Banza-Kongo"]
 	},
 	{
@@ -1461,6 +1468,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [203, 253, 232],
+		"uniques": "[-100 Science] [in all cities]",
 		"cities": ["Cahokia"]
 	},
 	{
@@ -1483,7 +1491,7 @@
 		"name": "Barbarians",
 		"outerColor": [0,0,0],
         "innerColor": [185,12,12],
-		"uniques": ["Can only heal by pillaging"]
+		"uniques": ["Can only heal by pillaging","[-100 Science] [in all cities]"]
 	}
 
     ]
