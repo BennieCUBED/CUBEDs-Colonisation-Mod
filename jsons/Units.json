@@ -1,1 +1,43 @@
+[
 
+	{
+		"name": "Mohawk Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Iroquois",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["[Mohawk Warrior] ability"],
+		"attackSound": "metalhit"
+	},
+  	{
+		"name": "Slinger",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 40,
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"promotions": ["Slinger Withdraw"],
+		"attackSound": "arrow"
+	},
+  	{
+		"name": "Mandekalu Cavalry",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Songhai",
+		"movement": 4,
+		"strength": 20,
+		"cost": 110,
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "horse"
+	},
+
+]
