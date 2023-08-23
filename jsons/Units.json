@@ -40,14 +40,17 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Pyramid",
-		"replaces": "Shrine",
+		"name": "Atlatlist",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 36,
+		"obsoleteTech": "Construction",
+		"replaces": "Slinger",
 		"uniqueTo": "The Maya",
-		"faith": 2,
-		"science": 2,
-		"cost": 40,
-		"maintenance": 1,
-		"uniques": ["Hidden when religion is disabled"]
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	},
 
 ]
