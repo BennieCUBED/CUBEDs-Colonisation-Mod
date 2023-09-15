@@ -16,7 +16,7 @@
             {
                 "name": "Hunting",
                 "uniques": [
-                    [""],
+                    ["[+1 Food] from [Cattle] tiles [in all cities]","[+1 Food] from [Sheep] tiles [in all cities]","[+1 Food] from [Deer] tiles [in all cities]"],
                 ],
                 "row": 1,
                 "column": 1
