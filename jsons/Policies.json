@@ -1,1 +1,26 @@
-
+[
+    {
+        "name": "Tribalism",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0,
+        },
+        "uniques": [
+            "[+3 Food] [in capital]"], 
+        
+        "policies": [
+            {
+                "name": "Hunting",
+                "uniques": [
+                    [""],
+                ],
+                "row": 1,
+                "column": 1
+            },
+        ],
+    },
+]
