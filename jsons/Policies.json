@@ -20,6 +20,13 @@
                 "row": 1,
                 "column": 1,
             },
-        ],
+        {
+                "name": "Tribalism Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]"],
     },
+]
+
+    },
+
 ]
