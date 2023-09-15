@@ -47,7 +47,7 @@
 		"name": "Hunting Spots",
 		"food": 1,
 		"cost": 50,
-		"uniques": [""],
+		"uniques": ["[+1 Food] from [Cattle] tiles [in all cities]","[+1 Food] from [Sheep] tiles [in all cities]","[+1 Food] from [Deer] tiles [in all cities]"],
 	},
 
 ]
