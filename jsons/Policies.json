@@ -16,7 +16,7 @@
             {
                 "name": "Hunting",
                 "uniques": [
-                    ["[+1 Food] [in all cities]","Provides a [Hunting Spots] in your first [10] cities for free"],
+                    ["Provides a [Hunting Spots] in your first [10] cities for free"],
                 ],
                 "row": 1,
                 "column": 1
